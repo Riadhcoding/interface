@@ -1,3 +1,3 @@
 python log.py
-PS1='\$ '
+PS1='\$'
 
