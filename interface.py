@@ -121,7 +121,7 @@ if choose == '2':
     os.system('cp log.py $HOME')
     os.chdir('/data/data/com.termux/files/usr/etc')
     os.system('rm -rf bash.bashrc')
-    os.system('cd $HOME;cd login/log;cp bash.bashrc /data/data/com.termux/files/usr/etc')
+    os.system('cd $HOME;cd interface/log;cp bash.bashrc /data/data/com.termux/files/usr/etc')
     os.system('clear')
     print(logo0)
     jalan("\033[1;36mRestart the application")
