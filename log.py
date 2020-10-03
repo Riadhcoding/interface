@@ -8,7 +8,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(00000.006)
 
-
+os.system('clear')
 jalan("\033[1;34m                       dP   dP")
 jalan("\033[1;34m                       88   88")
 jalan("\033[1;37m   88d888b. dP    dP d8888P 88d888b. .d8888b. 88d888b.")
