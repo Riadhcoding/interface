@@ -143,7 +143,7 @@ elif choose == '3':
     os.system('exit')
 ########################################################
 elif choose == '4':
-    os.system('xdg-open https://www.instagram.com/pyth0nlife')
+    os.system('xdg-open https://www.instagram.com/python.life')
     os.system('clear')
     print(logo0)
     time.sleep(0.3)
